@@ -4,12 +4,11 @@
 
 This repository contains three reports that I either **developed or enhanced** during my time as an intern at Barge Design Solutions (an AEC firm).
 
-The reports shown in this repository are not complete versions due to the confidentiality of certain company and financial information. The Billable Rate Report is presented as a screenshot due to Fabric publishing issues.
+The reports shown in this repository are not complete versions due to the confidentiality of certain company and financial information.
 
 ## Reports
 
 The reports included in this repository:
 
-* Billable Rate Power BI Report (Employee Utilization)
 * Monthly overview of Days Sales Outstanding (DSO) in Excel
 * Revenue Power BI Report with state and project data from an Azure SQL database
